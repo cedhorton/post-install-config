@@ -106,7 +106,8 @@ Configured SLA plans titled "SEV-A, SEV-B, SEV-C" as an admin in osTicket
 </p>
 <br />
 
-![image](https://github.com/cedhorton/post-install-config/assets/173581553/0ec313de-9b07-48fa-9e45-3f2c0c682278)
+![image](https://github.com/cedhorton/post-install-config/assets/173581553/336e395b-13b9-4c5a-b795-61109d4a8982)
+
 
 <p>
 Configured help topics as an admin in osTicket.
