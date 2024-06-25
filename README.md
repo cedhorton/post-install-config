@@ -51,11 +51,14 @@ Added a new department titled "System Administrators" as an admin in osTicket.
 </p>
 <br />
 
+![image](https://github.com/cedhorton/post-install-config/assets/173581553/984cdffd-8525-43ea-963a-f7f4614171ba)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+Added a new team titled "Level II Support" and assigned a teammember to the newly created team as an admin in osTicket.
+
+  * Admin Panel -> Agents -> Teams
+  * Add New Team -> Create Team Name -> Members
+
 </p>
 <br />
 
