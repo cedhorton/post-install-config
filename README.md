@@ -33,8 +33,8 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <p>
 Added a new role titled "Supreme Admin" and assigned permissions to the role as an admin in osTicket.
-  - Admin Panel -> Agents -> Roles
-  - Supreme Admin
+  * Admin Panel -> Agents -> Roles
+  * Supreme Admin
 
 </p>
 <br />
