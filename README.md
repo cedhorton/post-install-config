@@ -68,7 +68,7 @@ Added a new team titled "Level II Support" and assigned a teammember to the newl
 To allow anyone to create tickets, go to:
 
   * Admin Panel -> Settings -> User Settings
-  * Registration Required: Require registration and login to create tickets 
+  * Registration Required: Uncheck "Require registration and login to create tickets"
 
 </p>
 <br />
