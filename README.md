@@ -32,7 +32,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 ![image](https://github.com/cedhorton/post-install-config/assets/173581553/ea340523-ba39-4df0-8f0c-e87a6e98c923)
 
 <p>
-Added a new role titled "Supreme Admin" and assigned permissions to the role as an admin in osTicket.
+Configured a new role titled "Supreme Admin" and assigned permissions to the role as an admin in osTicket.
   
  * Admin Panel -> Agents -> Roles
  * Supreme Admin
