@@ -43,7 +43,7 @@ Added a new role titled "Supreme Admin" and assigned permissions to the role as 
 ![image](https://github.com/cedhorton/post-install-config/assets/173581553/9a8a4983-86fe-476c-9c6a-d2c10ea090fd)
 
 <p>
-Added a new department titled "System Administrators" as an admin in osTicket.
+Configured a new department titled "System Administrators" as an admin in osTicket.
 
   * Admin Panel -> Agents -> Departments
   * System Administrators
@@ -54,7 +54,7 @@ Added a new department titled "System Administrators" as an admin in osTicket.
 ![image](https://github.com/cedhorton/post-install-config/assets/173581553/984cdffd-8525-43ea-963a-f7f4614171ba)
 
 <p>
-Added a new team titled "Level II Support" and assigned a teammember to the newly created team as an admin in osTicket.
+Configured a new team titled "Level II Support" and assigned a teammember to the newly created team as an admin in osTicket.
 
   * Admin Panel -> Agents -> Teams
   * Add New Team -> Create Team Name -> Members
@@ -76,17 +76,19 @@ To allow anyone to create tickets, go to:
 ![image](https://github.com/cedhorton/post-install-config/assets/173581553/6cda99a6-a8f7-45dc-896e-c4e1b4570418)
 
 <p>
-Added a new agent named "Jane Doe" inside of osTicket as an admin.
+Configured a new agent named "Jane Doe" in of osTicket as an admin.
 
   * Admin Panel -> Agents -> Add New
 </p>
 <br />
 
+![image](https://github.com/cedhorton/post-install-config/assets/173581553/d53c8c35-4595-4c11-b12e-8f673e89517f)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+Configured a user/customer in osTicket named "Karen Karen" as an agent.
+
+  * Agent Panel -> Users -> Add New
+
 </p>
 <br />
 
